@@ -17,6 +17,24 @@ wp-content/plugins/hello.php
 /sitemap.xml.gz
 
 
+app/wordpress/wp-config.php
+app/wordpress/wp-content/advanced-cache.php
+app/wordpress/wp-content/backup-db/
+app/wordpress/wp-content/backups/
+app/wordpress/wp-content/blogs.dir/
+app/wordpress/wp-content/cache/
+app/wordpress/wp-content/upgrade/
+app/wordpress/wp-content/uploads/
+app/wordpress/wp-content/wp-cache-config.php
+app/wordpress/wp-content/plugins/hello.php
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+
 
 # Numerous always-ignore extensions
 *.diff
